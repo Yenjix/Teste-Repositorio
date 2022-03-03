@@ -1,0 +1,10 @@
+Para dar upload nas coisas que fiz offline, fazer os seguintes passos
+
+1º - Adiciona todos os arquivos no terminal Local:
+ $ git add . ou git add -A
+
+2º - -m é para colocar uma msg no commit, tem q ser algo coerente p saber oq foi feito no futuro
+ $ git commit -m "Inclusão das anotações do curso de GitHub"
+
+3º - Para finalizar e mandar os arquivos para a nuvem
+ $ git push origin main
